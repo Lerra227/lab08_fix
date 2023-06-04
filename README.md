@@ -139,15 +139,6 @@ lera@Lerra:~/lab08$ cat logs/log.txt
 text1
 text2
 text3
-<C-D>
-text1
-text2
-text3
-lera@Lerra:~/lab08$ nano logs/log.txt
-lera@Lerra:~/lab08$ cat logs/log.txt
-text1
-text2
-text3
 ```
 ```sh
 lera@Lerra:~/lab06/lab04$ nano CPackConfig.cmake
